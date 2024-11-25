@@ -1,0 +1,6 @@
+pandas
+numpy
+tensorflow
+tf_keras
+transformers
+nltk
