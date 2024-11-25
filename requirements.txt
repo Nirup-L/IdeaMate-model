@@ -6,5 +6,4 @@ transformers
 nltk
 flask
 torch
-pytorch
 
