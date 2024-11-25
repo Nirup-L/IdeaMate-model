@@ -5,3 +5,6 @@ tf_keras
 transformers
 nltk
 flask
+torch
+pytorch
+
